@@ -31,7 +31,7 @@ The main focus of this project was to practice API integration and component-bas
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/ymulukrajverma/weather-app.git
 cd weather-app
 npm install
 http://localhost:5173
